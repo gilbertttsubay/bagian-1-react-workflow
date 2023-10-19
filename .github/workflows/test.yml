@@ -11,4 +11,4 @@ jobs:
 
       - name: npm clean install
         run: |
-          npm clean install
+          npm install
